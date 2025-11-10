@@ -1,4 +1,4 @@
-# CodeAlpha_Flascard-Quiz-
+no# CodeAlpha_Flascard-Quiz-
 This is a simple Flashcard Quiz App built using React Native (via Expo). It lets users view a series of question cards, flip them to see answers, and move to the next or previous flashcard. Perfect for learning and memory practice
 Features
 
@@ -42,3 +42,5 @@ JavaScript (ES6)
 
 5. Enjoy your flashcard quiz!
 
+6. ### 🔗 Live Demo
+Run this project on Snack Expo: [https://snack.expo.dev/](https://snack.expo.dev)
