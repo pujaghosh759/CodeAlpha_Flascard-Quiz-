@@ -44,3 +44,7 @@ JavaScript (ES6)
 
 6. ### 🔗 Live Demo
 Run this project on Snack Expo: [https://snack.expo.dev/](https://snack.expo.dev)
+
+Name - Puja Ghosh 
+Project - Flashcard Quiz App
+Category - React Native Project(Mobile App Development)
