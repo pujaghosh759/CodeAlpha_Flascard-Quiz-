@@ -41,4 +41,4 @@ JavaScript (ES6)
 
 
 5. Enjoy your flashcard quiz!
-6. 
+
